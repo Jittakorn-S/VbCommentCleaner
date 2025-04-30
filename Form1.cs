@@ -1,8 +1,8 @@
+using Microsoft.CodeAnalysis;
+using Microsoft.CodeAnalysis.VisualBasic;
 using System;
 using System.Linq;
 using System.Windows.Forms;
-using Microsoft.CodeAnalysis;
-using Microsoft.CodeAnalysis.VisualBasic;
 
 namespace VbCommentCleanerWinApp
 {
