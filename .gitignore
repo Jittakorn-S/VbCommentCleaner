@@ -1,0 +1,142 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vbproj.user
+*.csproj.user
+
+# Visual Studio build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.pdb
+*.dll
+*.manifest
+*.xml
+*.cache
+*.tlog
+*.resources
+*.resx
+*.vbproj.GenerateResource.Cache
+*.csproj.GenerateResource.Cache
+
+# NuGet Packages
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+NuGet.Config
+NuGetScratch/
+
+# Visual Studio temporary files
+*.vbprojResolveAssemblyReference.cache
+*.vbproj.FileListAbsolute.txt
+*.vbproj.CoreCompileInputs.cache
+*.csproj.CoreCompileInputs.cache
+*.csprojAssemblyReference.cache
+*.lastbuildstate
+*.build.csdef
+*.buildscc
+*.cachefile
+
+# Backup & report files from converting an old project file
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+*.vbproj.bak
+*.csproj.bak
+
+# Resharper (JetBrains)
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# Rider (JetBrains)
+.idea/
+*.sln.iml
+
+# Test results
+TestResults/
+*.trx
+*.xml
+*.coverage
+*.coveragexml
+*.testlog
+*.testsettings
+*.vsmdi
+
+# Publish / Deployment
+publish/
+*.pubxml
+*.publishproj
+*.azurePubxml
+*.deployproj
+
+# Code coverage and profiling
+*.ncover
+*.ncrunchproject
+*.ncrunchsolution
+*.gpState
+
+# Database projects
+*.dbmdl
+*.sqlproj.user
+*.sqlproj.suo
+*.mdf
+*.ldf
+*.sdf
+
+# Miscellaneous
+*.log
+*.bak
+*.tmp
+*.swp
+*.lock
+*.pidb
+*.svclog
+*.scc
+.DS_Store
+Thumbs.db
+*.aps
+*.bsc
+*.exp
+*.ilk
+*.lib
+*.meta
+*.obj
+*.pch
+*.res
+*.sbr
+*.tlb
+*.tlh
+*.tli
+*.vcxproj.filters
+*.xap
+*.zip
+*.ncb
+*.opensdf
+*.sdf
+*.vcxproj.user
+*.wixproj.user
+node_modules/
+
+# Environment-specific settings
+appsettings.local.json
+local.settings.json
+*.env
+*.local
+
+# Package and dependency management
+project.lock.json
+project.assets.json
+*.deps.json
+*.runtimeconfig.json
+
+# Windows-specific
+$RECYCLE.BIN/
+desktop.ini
